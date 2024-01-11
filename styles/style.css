@@ -11,8 +11,9 @@ p{
     margin-left: 1%;
 }
 #main_menu{
-    margin-top: 3%;
+    margin-top: 0.8%;
     margin-left: 1%;
+    
     }
 #main_project_images{
     display: block;
@@ -25,4 +26,20 @@ img{
   width: 100%;
   cursor: pointer;
   margin-bottom: 10%;
+}
+a{
+    font-style: italic;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+p{
+  
+    font-style: italic;
+    margin-top: 1%;
+    margin-left: 1%;
+
+}
+#contact_info{
+    margin:auto;
+    width: 27%;
 }
