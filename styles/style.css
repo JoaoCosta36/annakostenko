@@ -21,7 +21,7 @@ p{
   margin-right: auto;
   width: 50%;
 }
-img{
+#main_project_images img{
     object-fit: cover;
   width: 100%;
   cursor: pointer;
@@ -41,5 +41,8 @@ p{
 }
 #contact_info{
     margin:auto;
-    width: 27%;
+    
+}
+.img_contact{
+    
 }
