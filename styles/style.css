@@ -7,12 +7,12 @@ p{
 }
 #title_anna{
     font-style: italic;
-    margin-top: 1%;
-    margin-left: 1%;
+
 }
 #main_menu{
-    margin-top: 0.8%;
-    margin-left: 1%;
+    margin-top: -20px;
+    
+    padding: 15px;
     
     }
 #main_project_images{
