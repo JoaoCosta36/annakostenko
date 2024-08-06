@@ -17,9 +17,9 @@ p{
     }
 #main_project_images{
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 #main_project_images img{
     object-fit: cover;
@@ -44,5 +44,5 @@ p{
     
 }
 .img_contact{
-    
+    padding: 10%;
 }
